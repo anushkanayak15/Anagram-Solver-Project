@@ -1,6 +1,4 @@
-//PROJECT 3
-//Anushka Nayak
-//UID 605977416
+
 #include <iostream>
 #include <fstream>
 #include <istream>
